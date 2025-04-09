@@ -1,15 +1,19 @@
 {
     "posts": [
         {
-          "id": 1,
-          "title": "hello world"
+            "data" : {
+                "text" : "hello world"
+            }
         },
         {
-          "id": 2,
-          "title": "hello unjang"
+            "data" : {
+                "text" : "hello unjang"
+            }
         }
-      ],
-      "profile": {
-        "name": "Ironcow"
-      }
-  }
+    ],
+    "profile": {
+        "data" : {
+            "name": "Ironcow"
+        }
+    }
+}
