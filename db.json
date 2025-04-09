@@ -17,5 +17,10 @@
         "data" : {
             "name": "Ironcow"
         }
+    },
+    "test" : {
+        "data" : {
+            "test" : "test"
+        }
     }
 }
