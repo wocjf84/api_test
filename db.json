@@ -1,11 +1,22 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+        {
+            "id" : 1,
+            "title": "hello world",
+            "data" : {
+                "text" : "hello world"
+            }
+        },
+        {
+            "id" : 2,
+            "data" : {
+                "text" : "hello unjang"
+            }
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "data" : {
+            "name": "Ironcow"
+        }
     }
-  }
+}
