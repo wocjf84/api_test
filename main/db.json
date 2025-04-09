@@ -1,16 +1,11 @@
 {
-    "test": [
-      {
-        "id": 1,
-        "title": "hello"
+    "posts": [
+        {
+          "id": 1,
+          "title": "hello"
+        }
+      ],
+      "profile": {
+        "name": "typicode"
       }
-    ],
-    "test1": {
-      "name": "typicode"
-    },
-    "test2": 
-    {
-        "test" : "TT"
-    }
-    
   }
