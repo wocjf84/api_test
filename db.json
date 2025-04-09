@@ -1,11 +1,13 @@
 {
     "posts": [
         {
+            "id" : 1,
             "data" : {
                 "text" : "hello world"
             }
         },
         {
+            "id" : 2,
             "data" : {
                 "text" : "hello unjang"
             }
